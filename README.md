@@ -1,6 +1,6 @@
-# Hybrid quantum-classical Monte Carlo
+# Quantum-classical Monte Carlo
 
- This jupyter notebook contains the code used to assess the feasibility and potential utility of hybrid quantum-classical Monte Carlo (QMC) algorithms. The accuracy of the Maximum Likelihood Quantum Amplitude Estimation (MLQAE) algorithm, classical emulated (quantum simulator), is compared against classical Monte Carlo (MC) simulations and the Black-Scholes formula for pricing European call options when dividends are unknown.
+This Jupyter notebook contains the code used to assess the feasibility and potential utility of a discretization-informed method for quantum-classical Monte Carlo algorithms. The accuracy of the Maximum Likelihood Quantum Amplitude Estimation (MLQAE) algorithm, classical emulated (quantum simulator), is calculated with respect to the Black-Scholes formula and classical Monte Carlo (MC) simulation for pricing European call options when dividend yield is unknown.
 
 
 ## Installation
